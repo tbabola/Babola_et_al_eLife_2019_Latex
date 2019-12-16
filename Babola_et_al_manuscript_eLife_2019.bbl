@@ -1,4 +1,4 @@
-\begin{thebibliography}{60}
+\begin{thebibliography}{66}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\urlprefix}{}
 \providecommand{\doiprefix}{doi: }
@@ -75,6 +75,17 @@
 \newblock \href{10.1016/j.neuron.2014.10.051}{\doiprefix
   \detokenize{10.1016/j.neuron.2014.10.051}}.
 
+\bibitem[{Cisneros-Mejorado et~al.(2014)Cisneros-Mejorado, Abraham and
+  P{\'{e}}rez-Samart{\'{i}}n, Alberto and Gottlieb, Miroslav and Matute,
+  Carlos}]{Cisneros-Mejorado2014}
+\textbf{\color{eLifeMediumGrey} Cisneros-Mejorado A},
+  P{\'{e}}rez-Samart{\'{i}}n A, Gottlieb M, Matute C.
+\newblock {ATP signaling in brain: release, excitotoxicity and potential
+  therapeutic targets}.
+\newblock Cellular and Molecular Neurobiology.  2014; 35(1):1--6.
+\newblock \href{10.1007/s10571-014-0092-3}{\doiprefix
+  \detokenize{10.1007/s10571-014-0092-3}}.
+
 \bibitem[{Clause et~al.(2014)Clause, Amanda and Kim, Gunsoo and Sonntag, Mandy
   and Weisz, Catherine J C and Vetter, Douglas E and Rűbsamen, Rudolf and
   Kandler, Karl}]{Clause2014}
@@ -107,10 +118,19 @@
 
 \bibitem[{Dickson(2002)Dickson, Barry J}]{Dickson2002}
 \textbf{\color{eLifeMediumGrey} Dickson BJ}.
-\newblock {Molecular mechanisms of sxon guidance}.
+\newblock {Molecular mechanisms of axon guidance}.
 \newblock Science.  2002; 298(5600):1959--1964.
 \newblock \href{10.1126/science.1072165}{\doiprefix
   \detokenize{10.1126/science.1072165}}.
+
+\bibitem[{Eckrich et~al.(2018)Eckrich, Tobias and Blum, Kerstin and Milenkovic,
+  Ivan and Engel, Jutta}]{Eckrich2018}
+\textbf{\color{eLifeMediumGrey} Eckrich T}, Blum K, Milenkovic I, Engel J.
+\newblock {Fast Ca2+ transients of inner hair cells arise coupled and uncoupled
+  to Ca2+ waves of inner supporting cells in the developing mouse cochlea}.
+\newblock Frontiers in Molecular Neuroscience.  2018; 11(7):1--16.
+\newblock \href{10.3389/fnmol.2018.00264}{\doiprefix
+  \detokenize{10.3389/fnmol.2018.00264}}.
 
 \bibitem[{Erb and Weisman(2012)Erb, Laurie and Weisman, Gary A}]{Erb2012}
 \textbf{\color{eLifeMediumGrey} Erb L}, Weisman GA.
@@ -203,7 +223,7 @@
   Holley MC, Elgoyhen AB, Marcotti W.
 \newblock {Cholinergic efferent synaptic transmission regulates the maturation
   of auditory hair cell ribbon synapses}.
-\newblock Open Biology.  2013; 3(NOV):130163.
+\newblock Open Biology.  2013; 3(11):130163.
 \newblock \href{10.1098/rsob.130163}{\doiprefix
   \detokenize{10.1098/rsob.130163}}.
 
@@ -216,9 +236,10 @@
 \newblock \href{10.1016/j.neuron.2013.10.030}{\doiprefix
   \detokenize{10.1016/j.neuron.2013.10.030}}.
 
-\bibitem[{Kofuji and Newman(2004)Kofuji, P and Newman, E A}]{Kofuji2004}
-\textbf{\color{eLifeMediumGrey} Kofuji P}, Newman EA, {Potassium buffering in
-  the central nervous system}; 2004.
+\bibitem[{Kofuji and Newman(2004)Kofuji, P. and Newman, E. A.}]{Kofuji2004}
+\textbf{\color{eLifeMediumGrey} Kofuji P}, Newman EA.
+\newblock {Potassium buffering in the central nervous system}.
+\newblock Journal of Neuroscience.  2004; 129(4):1043--1054.
 \newblock \href{10.1016/j.neuroscience.2004.06.008}{\doiprefix
   \detokenize{10.1016/j.neuroscience.2004.06.008}}.
 
@@ -278,7 +299,17 @@
 \textbf{\color{eLifeMediumGrey} Marcotti W}, Johnson SL, Holley MC, Kros CJ.
 \newblock {Developmental changes in the expression of potassium currents of
   embryonic, neonatal and mature mouse inner hair cells}.
-\newblock The Journal of Physiology.  2003; 548(2):383--400.
+\newblock Journal of Physiology.  2003; 548(2):383--400.
+
+\bibitem[{Milenkovic et~al.(2009)Milenkovic, Ivan and Rinke, Ilka and Witte,
+  Mirko and Dietz, Beatrice and R{\"{u}}bsamen, Rudolf}]{Milenkovic2009}
+\textbf{\color{eLifeMediumGrey} Milenkovic I}, Rinke I, Witte M, Dietz B,
+  R{\"{u}}bsamen R.
+\newblock {P2 receptor-mediated signaling in spherical bushy cells of the
+  mammalian cochlear nucleus}.
+\newblock Journal of Neurophysiology.  2009; 102(3):1821--1833.
+\newblock \href{10.1152/jn.00186.2009}{\doiprefix
+  \detokenize{10.1152/jn.00186.2009}}.
 
 \bibitem[{Moody and Bosma(2005)Moody, William J and Bosma, Martha
   M}]{Moody2005}
@@ -328,6 +359,14 @@
 \textbf{\color{eLifeMediumGrey} Olsen M}.
 \newblock {Examining potassium channel function in astrocytes}.
 \newblock Methods in Molecular Biology.  2012; 814:265--281.
+
+\bibitem[{Peracchia(2004)Peracchia, Camillo}]{Peracchia2004}
+\textbf{\color{eLifeMediumGrey} Peracchia C}.
+\newblock {Chemical gating of gap junction channels: roles of calcium, pH and
+  calmodulin}.
+\newblock Biochimica et Biophysica Acta.  2004; 1662(1-2):61--80.
+\newblock \href{10.1016/j.bbamem.2003.10.020}{\doiprefix
+  \detokenize{10.1016/j.bbamem.2003.10.020}}.
 
 \bibitem[{Ryoo and Park(2016)Ryoo, Kanghyun and Park, Jae-Yong}]{Ryoo2016}
 \textbf{\color{eLifeMediumGrey} Ryoo K}, Park JY.
@@ -419,7 +458,7 @@
 \bibitem[{Tritsch and Bergles(2010)Tritsch, Nicolas X and Bergles, Dwight
   E}]{Tritsch2010}
 \textbf{\color{eLifeMediumGrey} Tritsch NX}, Bergles DE.
-\newblock {Developmental regulation of spontaneous activity in the Mammalian
+\newblock {Developmental regulation of spontaneous activity in the mammalian
   cochlea.}
 \newblock Journal of Neuroscience.  2010; 30(4):1539--50.
 \newblock \href{10.1523/JNEUROSCI.3875-09.2010}{\doiprefix
@@ -470,8 +509,8 @@
   S{\'{e}}vigny, Jean and Robson, Simon C and Housley, Gary D}]{Vlajkovic2002}
 \textbf{\color{eLifeMediumGrey} Vlajkovic SM}, Thorne PR, S{\'{e}}vigny J,
   Robson SC, Housley GD.
-\newblock {NTPDase1 and NTPDase2 Immunolocalization in Mouse Cochlea:
-  Implications for Regulation of P2 Receptor Signaling}.
+\newblock {NTPDase1 and NTPDase2 immunolocalization in mouse cochlea:
+  implications for regulation of P2 receptor signaling}.
 \newblock Journal of Histochemistry {\&} Cytochemistry.  2002;
   50(11):1435--1441.
 \newblock \href{10.1177/002215540205001102}{\doiprefix
@@ -534,12 +573,23 @@
 \newblock \href{10.1073/pnas.1222285110}{\doiprefix
   \detokenize{10.1073/pnas.1222285110}}.
 
+\bibitem[{Yu et~al.(2004)Yu, C. Ron and Power, Jennifer and Barnea, Gilad and
+  O'Donnell, Sean and Brown, Hannah E.V. and Osborne, Joseph and Axel, Richard
+  and Gogos, Joseph A.}]{Yu2004}
+\textbf{\color{eLifeMediumGrey} Yu CR}, Power J, Barnea G, O'Donnell S, Brown
+  HEV, Osborne J, Axel R, Gogos JA.
+\newblock {Spontaneous neural activity is required for the establishment and
+  maintenance of the olfactory sensory map}.
+\newblock Neuron.  2004; 42(4):553--566.
+\newblock \href{10.1016/S0896-6273(04)00224-7}{\doiprefix
+  \detokenize{10.1016/S0896-6273(04)00224-7}}.
+
 \bibitem[{Zhang et~al.(2012)Zhang, Jiayi and Ackman, James B and Xu, Hong-Ping
   and Crair, Michael C}]{Zhang2012}
 \textbf{\color{eLifeMediumGrey} Zhang J}, Ackman JB, Xu HP, Crair MC.
 \newblock {Visual map development depends on the temporal pattern of binocular
   activity in mice}.
-\newblock Nature neuroscience.  2012; 15(2):298.
+\newblock Nature Neuroscience.  2012; 15(2):298.
 
 \bibitem[{Zhang-Hooks et~al.(2016)Zhang-Hooks, Ying Xin and Agarwal, Amit and
   Mishina, Masayoshi and Bergles, Dwight E.}]{Zhang-Hooks2016}
@@ -550,6 +600,15 @@
 \newblock Neuron.  2016; 89(2):337--350.
 \newblock \href{10.1016/j.neuron.2015.12.016}{\doiprefix
   \detokenize{10.1016/j.neuron.2015.12.016}}.
+
+\bibitem[{Zheng et~al.(1999)Zheng, Qing Yin and Johnson, Kenneth R. and Erway,
+  Lawrence C.}]{Zheng1999}
+\textbf{\color{eLifeMediumGrey} Zheng QY}, Johnson KR, Erway LC.
+\newblock {Assessment of hearing in 80 inbred strains of mice by ABR threshold
+  analyses}.
+\newblock Hearing Research.  1999; 130(1-2):94--107.
+\newblock \href{10.1016/S0378-5955(99)00003-9}{\doiprefix
+  \detokenize{10.1016/S0378-5955(99)00003-9}}.
 
 \bibitem[{Zhu and Zhao(2010)Zhu, Yan and Zhao, Hong Bo}]{Zhu2010a}
 \textbf{\color{eLifeMediumGrey} Zhu Y}, Zhao HB.
